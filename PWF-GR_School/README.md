@@ -1,3 +1,4 @@
+
 # Introduction to General Relativity — Course Overview
 
 The course on **“Introduction to General Relativity”** provides a basic introduction to the field at the level of a typical Master’s course. It begins with a pre-school covering important concepts in special relativity.
